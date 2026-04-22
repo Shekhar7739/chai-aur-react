@@ -1,5 +1,11 @@
+import Chai from "./Chai";
+
 function App() {
-  return <h1>Chai aur React | Shekhar Suman</h1>;
+  return (
+    <div>
+      <Chai />
+    </div>
+  );
 }
 
 export default App;
